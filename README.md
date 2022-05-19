@@ -1,6 +1,6 @@
 # DefensiveProgramming
 
-To build a software we're expected to build a solid large wall to protect it from the outside influence!
+To build a software we're expected to build a solid, large wall to protect us from the outside influence!
 
 However..! Most large countries have fallen from the inside-out...
 
